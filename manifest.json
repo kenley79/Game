@@ -1,0 +1,18 @@
+{
+  "name": "Sands After Dark",
+  "short_name": "Sands",
+  "description": "A private dice-and-cards game for two.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#170a10",
+  "theme_color": "#170a10",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
